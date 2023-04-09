@@ -5,7 +5,7 @@ It aims to be an adequate replacement for most existing IRC bots.
 It includes a very flexible and powerful
 [ACL system](https://docs.limnoria.net/use/capabilities.html)
 for controlling access to commands,
-an equality powerful
+an equally powerful
 [configuration system](https://docs.limnoria.net/use/configuration.html)
 to customize your bot,
 as well as more than 60 builtin [plugins](https://limnoria.net/plugins.xhtml)
